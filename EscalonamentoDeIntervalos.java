@@ -1,3 +1,5 @@
+//Autor: Lucas Tashan
+
 public class EscalonamentoDeIntervalos {
     public static void main(String[] args) {
         int[] s = {2,4,1,6,4,6,7,9,9,3,13};
